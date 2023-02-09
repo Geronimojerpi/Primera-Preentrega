@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Banana",
+		"description": "Amarilla",
+		"code": "TF33",
+		"price": 70,
+		"status": true,
+		"stock": "4",
+		"category": "Fruta",
+		"id": 1
+	},
+	{
+		"title": "Pera",
+		"description": "Grande",
+		"code": "GF49",
+		"price": 25,
+		"status": true,
+		"stock": 3,
+		"category": "Fruta",
+		"id": 2
+	},
+	{
+		"title": "Manzana",
+		"description": "Roja",
+		"code": "KG00",
+		"price": 50,
+		"status": true,
+		"stock": 5,
+		"category": "Fruta",
+		"id": 3
+	}
+]
